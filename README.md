@@ -4,3 +4,5 @@ Animated clock
 
 
 Made with HTML, CSS, and Vanilla JavaScript
+
+See it here: https://ccrisolo.github.io/clock-js/
