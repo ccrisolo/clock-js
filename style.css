@@ -48,7 +48,7 @@ body {
 #digital-time {
     color: rgb(255, 255, 255);
     text-shadow: 2px 5px 5px red;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .digital-time-wrapper {
@@ -58,11 +58,13 @@ body {
 .heading {
     color: white;
     text-shadow: 2px 5px 5px red;
+    font-size: 40px;
 }
 
 p {
     color: white;
     text-shadow: 2px 5px 5px red;
+    font-size: 20px;
 }
 
 .hand.hour-hand {
