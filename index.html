@@ -9,8 +9,8 @@
     </head>
     <body>
         <div class="heading-wrapper">
-            <h1 class="heading" >What Time Is It?</h1>
-            <p >Built with JavaScript</p>
+            <h1 class="heading">What Time Is It?</h1>
+            <p>Built with JavaScript</p>
         </div>
         <div class="clock">
             <div class="clock-face">
@@ -36,9 +36,8 @@
                 const now = new Date();
 
                 const hour = now.getHours();
-                const minutes = now
-                    .getMinutes()
-                    .toLocaleString("en-US", { minute: "2-digit" });
+                const minutes =
+                    (now.getMinutes() < 10 ? "0" : "") + now.getMinutes();
                 const seconds = now.getSeconds();
                 const utcHour = hour % 12;
                 const amPm = hour > 12 ? "pm" : "am";
