@@ -1,6 +1,7 @@
 # clock-js
 Animated analog and digital clock 
-<img width="1479" alt="Screen Shot 2021-10-15 at 2 50 17 PM" src="https://user-images.githubusercontent.com/59452934/137557346-09ad3514-773d-499b-8ce8-1d10cdfbcde7.png">
+<img width="1578" alt="Screen Shot 2021-10-16 at 3 16 49 PM" src="https://user-images.githubusercontent.com/59452934/137603403-6d07145e-312d-4de7-8824-e143beb7d742.png">
+
 
 
 Made with HTML, CSS, and Vanilla JavaScript
